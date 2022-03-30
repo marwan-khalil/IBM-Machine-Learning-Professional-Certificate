@@ -1,2 +1,2 @@
 ## Certificate of Deep Learning and Reinforcement Learning
-* [Certificate]()
+* [Certificate](https://www.coursera.org/account/accomplishments/verify/MXEQ7ULJ4SP2)
